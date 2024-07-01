@@ -9,4 +9,4 @@
 
 
 
-<br><p>- 📫 How to reach me **<a href="https://isuru.rodrigo1243@gmail.com">isuru.rodrigo1243@gmail.com</a>**</p>
+<br><p>- 📫 How to reach me <b><a href="https://isuru.rodrigo1243@gmail.com">isuru.rodrigo1243@gmail.com</a></b></p>
