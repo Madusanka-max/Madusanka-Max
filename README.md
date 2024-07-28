@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madusanka-max&theme=vue-dark&show_icons=true&locale=en" alt="madusanka-max" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madusanka-max&" alt="madusanka-max" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madusanka-max&&theme=vue-dark" alt="madusanka-max" /></p>
