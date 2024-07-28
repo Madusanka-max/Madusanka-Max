@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isuru Madusanka Rodrigo</h1>
+ <h1 align="center">Hi 👋, I'm Isuru Madusanka Rodrigo</h1>
 <h3 align="center">Iam Undergraduate in Rajarata University of Sri Lanka, Who egger to become Full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madusanka-max&label=Profile%20views&color=0e75b6&style=flat" alt="madusanka-max" /> </p>
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Grocery Shop Management System](https://github.com/Madusanka-max/GroceryShopManagementSystem)
 
-- 🌱 I’m currently learning **JS | NodeJS | TypeScript**
+- 🌱 I’m currently learning **| JS | NodeJS | TypeScript |**
 
-- 💬 Ask me about **HTML | PHP | CSS |**
+- 💬 Ask me about **| HTML | PHP | CSS |**
 
 - 📫 How to reach me **isuru.rodrigo1243@gmail.com**
 
