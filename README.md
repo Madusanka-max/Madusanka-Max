@@ -1,9 +1,9 @@
  <h1 align="center">Hi 👋, I'm Isuru Madusanka Rodrigo</h1>
 <h3 align="center">Iam Undergraduate in Rajarata University of Sri Lanka, Who egger to become Full stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madusanka-max&label=Profile%20views&color=0e75b6&style=flat" alt="madusanka-max" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madusanka-max&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="madusanka-max" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madusanka-max" alt="madusanka-max" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madusanka-max&theme=onedark" alt="madusanka-max" /></a> </p>
 
 - 🔭 I’m currently working on [Intelligent Indoor OR Outdoor Surveillance Camera with AI Detection and Programmable Relay Control](https://github.com/Madusanka-max/Intelligent-Indoor-OR-Outdoor-Surveillance-Camera-with-AI-Detection-and-Programmable-Relay-Control)
 
