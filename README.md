@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madusanka-max" alt="madusanka-max" /></a> </p>
 
-- 🔭 I’m currently working on [Grocery Shop Management System](https://github.com/Madusanka-max/GroceryShopManagementSystem)
+- 🔭 I’m currently working on [Intelligent Indoor OR Outdoor Surveillance Camera with AI Detection and Programmable Relay Control](https://github.com/Madusanka-max/Intelligent-Indoor-OR-Outdoor-Surveillance-Camera-with-AI-Detection-and-Programmable-Relay-Control)
 
 - 🌱 I’m currently learning **| JS | NodeJS | TypeScript |**
 
