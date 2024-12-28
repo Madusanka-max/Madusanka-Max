@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Intelligent Indoor OR Outdoor Surveillance Camera with AI Detection and Programmable Relay Control](https://github.com/Madusanka-max/Intelligent-Indoor-OR-Outdoor-Surveillance-Camera-with-AI-Detection-and-Programmable-Relay-Control)
 
-- 🌱 I’m currently learning **| JS | NodeJS | TypeScript |**
+- 🌱 I’m currently learning **| JS | NodeJS | NEXTJS | TypeScript |**
 
 - 💬 Ask me about **| HTML | PHP | CSS |**
 
