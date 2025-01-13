@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **| JS | NodeJS | NEXTJS | TypeScript |**
 
-- 💬 Ask me about **| HTML | PHP | CSS |**
+- 💬 Ask me about **| HTML | PHP | CSS | SQL |**
 
 - 📫 How to reach me **isuru.rodrigo1243@gmail.com**
 
