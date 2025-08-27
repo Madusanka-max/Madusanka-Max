@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madusanka-max&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="madusanka-max" /> </p>
 
 <p align="center">
-    <img 
+    <img
       src="https://readme-typing-svg.demolab.com?lines=SOFTWARE%20ENGINEER;FULL-STACK%20WEB%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER;YOUTUBER;EXPERIENCED%20UI%2FUX%20DESIGNER;1YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira+Code&center=true&width=600&height=45&color=20C20E&vCenter=true&pause=1000&size=22"
       alt="Professional Titles"
     />
@@ -15,16 +15,13 @@
         <img src="https://github-widgetbox.vercel.app/api/profile?username=madusanka-max&data=repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%" >
     </a>
 
-
-
-
 - 🔭 I’m currently working on [Evaluating Optimal Blockchain Technology for Secure Medical Data Storage]
 
 - 🌱 I’m currently learning **| JS | ReactJS | NEXTJS | TypeScript | Tailwind CSS |**
 
 - 💬 Ask me about **| HTML | PHP | CSS | SQL |**
 
-- 📫 How to reach me **isuru.rodrigo1243@gmail.com**
+- 📫 How to reach me **<isuru.rodrigo1243@gmail.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madusanka-max&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="madusanka-max" /></p> -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madusanka-max&theme=gotham&layout=compact"width="40%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madusanka-max&theme=gotham&layout=compact"width="40%"/>
 </p>
 
 <p align="center">
@@ -60,6 +57,16 @@
     <a href="https://github.com/Madusanka-max">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madusanka-max&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
+</p>
+
+<!-- Snake Animation -->
+<h2 align="center">🐍 My Contributions Snake</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madusanka-max/Madusanka-max/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madusanka-max/Madusanka-max/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Madusanka-max/Madusanka-max/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <!--   -->
