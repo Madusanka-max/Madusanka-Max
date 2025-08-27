@@ -3,7 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madusanka-max&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="madusanka-max" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madusanka-max&theme=onedark" alt="madusanka-max" /></a> </p>
+
+
+
+<p align="center">
+    <a href="[http://jrohit.com.np](https://github.com/Madusanka-max)" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=madusanka-max&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%" >
+    </a>
+
+
+
 
 - 🔭 I’m currently working on [Evaluating Optimal Blockchain Technology for Secure Medical Data Storage]
 
