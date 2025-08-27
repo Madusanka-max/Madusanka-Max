@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="[http://jrohit.com.np](https://github.com/Madusanka-max)" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=madusanka-max&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%" >
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=madusanka-max&data=repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%" >
     </a>
 
 
