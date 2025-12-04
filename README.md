@@ -17,9 +17,9 @@
 
 - 🔭 I’m currently working on [Evaluating Optimal Blockchain Technology for Secure Medical Data Storage]
 
-- 🌱 I’m currently learning **| JS | ReactJS | NEXTJS | TypeScript | Tailwind CSS |**
+- 🌱 I’m currently learning **| JS | ReactJS | NEXTJS | TypeScript | Computer Vision |**
 
-- 💬 Ask me about **| HTML | PHP | CSS | SQL |**
+- 💬 Ask me about **| HTML | PHP |Tailwind CSS / CSS | SQL |**
 
 - 📫 How to reach me **<isuru.rodrigo1243@gmail.com>**
 
