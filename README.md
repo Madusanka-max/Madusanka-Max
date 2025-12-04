@@ -15,7 +15,7 @@
         <img src="https://github-widgetbox.vercel.app/api/profile?username=madusanka-max&data=repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%" >
     </a>
 
-- 🔭 I’m currently working on [Evaluating Optimal Blockchain Technology for Secure Medical Data Storage]
+- 🔭 I’m currently working on [ALO-BOT]
 
 - 🌱 I’m currently learning **| JS | ReactJS | NEXTJS | TypeScript | Computer Vision |**
 
