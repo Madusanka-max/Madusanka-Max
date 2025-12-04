@@ -1,7 +1,7 @@
  <p align="right"> <h1 align="center">Hi 👋, I'm Isuru Madusanka Rodrigo </h1> <img src="https://komarev.com/ghpvc/?username=madusanka-max&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="madusanka-max" /> </p>
  <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?lines=SOFTWARE+ENGINEER;FULL-STACK+WEB+DEVELOPER;ARTIFICIAL+INTELLIGENCE+(AI)+ENTHUSIAST;PROGRAMMER;VIDEO+EDITOR+(YOUTUBE);UI%2FUX+DESIGN+ENTHUSIAST;1%2B+YEAR+CODING+EXPERIENCE;ALWAYS+LEARNING+NEW+THINGS&font=Fira+Code&center=true&width=650&height=45&color=20C20E&vCenter=true&pause=1000&size=22"
+    src="https://readme-typing-svg.demolab.com?lines=SOFTWARE+ENGINEER;FULL-STACK+WEB+DEVELOPER;ARTIFICIAL+INTELLIGENCE+(AI)+ENTHUSIAST;AI+&+COMPUTER+VISION+ENTHUSIAST;PROGRAMMER;VIDEO+EDITOR+(YOUTUBE);UI%2FUX+DESIGN+ENTHUSIAST;1%2B+YEAR+CODING+EXPERIENCE;ALWAYS+LEARNING+NEW+THINGS&font=Fira+Code&center=true&width=650&height=45&color=20C20E&vCenter=true&pause=1000&size=22"
     alt="Professional Titles"
   />
 </p>
