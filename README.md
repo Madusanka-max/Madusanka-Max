@@ -1,14 +1,18 @@
- <h1 align="center">Hi 👋, I'm Isuru Madusanka Rodrigo</h1>
-<h3 align="center">I am Undergraduate in Rajarata University of Sri Lanka, Who egger to become Full stack developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madusanka-max&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="madusanka-max" /> </p>
-
-<p align="center">
-    <img
-      src="https://readme-typing-svg.demolab.com?lines=SOFTWARE%20ENGINEER;FULL-STACK%20WEB%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE%20(AI);PROGRAMMER;YOUTUBER;EXPERIENCED%20UI%2FUX%20DESIGNER;1YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira+Code&center=true&width=600&height=45&color=20C20E&vCenter=true&pause=1000&size=22"
-      alt="Professional Titles"
-    />
+ <p align="right"> <h1 align="center">Hi 👋, I'm Isuru Madusanka Rodrigo </h1> <img src="https://komarev.com/ghpvc/?username=madusanka-max&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="madusanka-max" /> </p>
+ <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?lines=SOFTWARE+ENGINEER;FULL-STACK+WEB+DEVELOPER;ARTIFICIAL+INTELLIGENCE+(AI)+ENTHUSIAST;PROGRAMMER;VIDEO+EDITOR+(YOUTUBE);UI%2FUX+DESIGN+ENTHUSIAST;1%2B+YEAR+CODING+EXPERIENCE;ALWAYS+LEARNING+NEW+THINGS&font=Fira+Code&center=true&width=650&height=45&color=20C20E&vCenter=true&pause=1000&size=22"
+    alt="Professional Titles"
+  />
 </p>
+
+<h3 align="center">Full-Stack Developer | Undergraduate | Tech Enthusiast
+
+I’m an undergraduate at Rajarata University of Sri Lanka, passionate about building scalable full-stack applications and exploring modern web technologies. I enjoy creating clean UI, strong backend systems, and experimenting with AI, computer vision, and blockchain.</h3>
+
+
+
+
 </br>
 <p align="center">
     <a href="https://github.com/Madusanka-max" target="_blank">
